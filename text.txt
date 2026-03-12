@@ -3,3 +3,5 @@
 2.changes in app.ts // app.use("/api/v1/", router);
 
 3.npm i zod 
+
+4.interface.ts 
