@@ -1,0 +1,5 @@
+1.app/router/router.ts
+
+2.changes in app.ts // app.use("/api/v1/", router);
+
+3.npm i zod 
