@@ -1,5 +1,5 @@
 export declare const env: {
-    DB_URI: any;
-    PORT: any;
+    DB_URI: string | undefined;
+    PORT: string | undefined;
 };
 //# sourceMappingURL=env.d.ts.map
