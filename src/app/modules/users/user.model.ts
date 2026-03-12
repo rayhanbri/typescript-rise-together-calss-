@@ -8,4 +8,4 @@ const userSchema=new Schema<IUser>({
     password:{type : String}
 })
 
-const User =model<IUser>('user' , userSchema)
+export const User =model<IUser>('user' , userSchema)
