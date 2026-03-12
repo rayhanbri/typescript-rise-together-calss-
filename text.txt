@@ -5,3 +5,4 @@
 3.npm i zod 
 
 4.interface.ts 
+5.user model.ts 
